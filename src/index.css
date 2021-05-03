@@ -24,19 +24,12 @@
   border: 2px solid red;
 }
 .nav-link{
-   margin-top: 1px;
+   margin: 1px 2vh ;
    color: whitesmoke;
    text-align: center;
 }
-.nav-link{
-  word-spacing: 10px;
-}
-.nav-link{
-  word-spacing: 10px;
-}
-.nav-link{
-  word-spacing: 10px;
-}
-.nav-link{
-  word-spacing: 10px;
+.Pttt{
+  width: 10rem;
+  height: auto;
+  
 }
