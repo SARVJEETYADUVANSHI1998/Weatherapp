@@ -1,10 +1,10 @@
 import React from 'react'
-import './help.css';
+
 
 const Help = () => {
     return (
         <div>
-            
+            <h1>Hi! i am mr jeetu yaduvanshi...... </h1>
         </div>
     )
 }

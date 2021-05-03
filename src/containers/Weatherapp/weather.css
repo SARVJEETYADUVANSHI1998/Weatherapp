@@ -6,4 +6,5 @@
 }
 .nav{
     display: -ms-flexbox;
+    word-spacing: 15px;
 }
